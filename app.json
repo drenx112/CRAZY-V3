@@ -1,5 +1,5 @@
 {
-  "name": "ᴄʀᴀᴢʏ-ᴍᴅ-ᴠ3",
+  "name": "𝐷𝐵𝑌✯-ᴍᴅ-ᴠ3",
   "description": "ᴄʜᴜᴅᴅʏ ʙᴜᴅᴅʏ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙʏ ᴄʀᴀᴢʏ ᴅᴇᴠ",
   "logo": "https://files.catbox.moe/8xk9cz.jpg",
   "keywords": ["CRAZY-DEV"],
@@ -8,9 +8,9 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "CRAZY;;;nExSCYra#NAyy3OACoD5VCYv3GIesZBiR6v_DXGkDLZfyHFFZjg0",
       "required": true,
-      "value": ""
+      "value": "true"
     },  
     
     "STICKER_NAME": {
@@ -28,7 +28,7 @@
     "MODE": {
       "description": "select your bot work type public-private-inbox-group.",
       "required": false,
-      "value": "public"
+      "value": "private"
       
     },
     
@@ -61,13 +61,13 @@
     "AUTO_STATUS_SEEN": {
       "description": "Make it true for automatic status seen.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REACT": {
       "description": "make it true for automatic status reaction or like.",
       "required": true,
-      "value": "true"
+      "value": "false"
     }, 
 
     "AUTO_STATUS_REPLY": {
@@ -79,27 +79,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY CRAZY-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY 𝐷𝐵𝑌✯-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "CRAZY Tᴇᴄʜ"
+      "value": "𝐷𝐵𝑌✯"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "2416573xxx"
+      "value": "263710781795"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "CRAZY-MD-V3"
+      "value": "𝐷𝐵𝑌✯-MD-V3"
 
       }, 
 
@@ -120,7 +120,7 @@
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
    "MENTION_REPLY": {
@@ -138,13 +138,13 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈𝚈 𝙲𝚁𝙰𝚉𝚈 𝚃𝙴𝙲𝙷 𝙸𝙽𝙲*"
+      "value": "*© 𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝐷𝐵𝑌✯*"
     },
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
@@ -156,7 +156,7 @@
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_REACT": {
@@ -193,7 +193,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "READ_MESSAGE": {
