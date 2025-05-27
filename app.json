@@ -1,5 +1,5 @@
 {
-  "name": "𝐷𝐵𝑌✯-ᴍᴅ-ᴠ3",
+  "name": "CRAZY-V3",
   "description": "ᴄʜᴜᴅᴅʏ ʙᴜᴅᴅʏ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ʙʏ ᴄʀᴀᴢʏ ᴅᴇᴠ",
   "logo": "https://files.catbox.moe/8xk9cz.jpg",
   "keywords": ["CRAZY-DEV"],
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "CRAZY;;;OB4xjbjZ#MxoOYXGlKPPEC3PlsmdYQNdtwZAAuf1TDjvxJsQMF4o",
+      "description": "CRAZY;;;WcARSIwa#skTsaqmLkMSHeBG_ZqqJyOyizHUCpnUbi-qc6IJ4MjQ",
       "required": true,
       "value": "true"
     },  
@@ -92,14 +92,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263789085533"
+      "value": "27796742970"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "𝐷𝐵𝑌✯-MD-V3"
+      "value": "CRAZY-V3"
 
       }, 
 
